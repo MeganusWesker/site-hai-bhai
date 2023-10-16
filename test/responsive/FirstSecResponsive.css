@@ -1,0 +1,1123 @@
+@media only screen and (min-width: 1165px) and (max-width: 1300px) {
+  .first-section {
+    width: 100%;
+    height: 88vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 10vh;
+  }
+
+  /* first section right side */
+  .right-image {
+    background: url("../images/3939.jpg") no-repeat center center/cover;
+    width: 53%;
+    height: 69vh;
+  }
+  /* first section left side */
+  .left {
+    width: 49%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 95%;
+    height: 40vh;
+  }
+  .heading h1 {
+    line-height: 69px;
+  }
+}
+
+@media only screen and (min-width: 1101px) and (max-width: 1218px) {
+  /* first section right side */
+  .right-image {
+    background: url("../images/3939.jpg") no-repeat center center/cover;
+    width: 51%;
+    height: 60vh;
+  }
+
+  /* first section left side */
+  .left {
+    width: 49%;
+    height: 90vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 97%;
+    height: 57vh;
+  }
+  .heading h1 {
+    text-align: center;
+  }
+  /* line under heading */
+  .line {
+    width: 99%;
+  }
+}
+
+/* from 972px to 1100 width */
+
+@media only screen and (min-width: 971px) and (max-width: 1101px) {
+  .first-section {
+    /* background: linear-gradient(rgba(221, 211, 211, 0.1), rgba(238, 233, 233, 0.6)), url('https://img.freepik.com/free-vector/real-estate-isometric-landing-page_88138-465.jpg?w=996&t=st=1691813826~exp=1691814426~hmac=e6df6f3a25888c45f5694f77914a2a6db9c5c4b36428e8781c21eb4bb96717a1') no-repeat center center/cover; */
+    width: 100%;
+    height: 88vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 90vh;
+  }
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 95%;
+    height: 44vh;
+  }
+  .heading h1 {
+    font-weight: 600;
+    font-size: 68px;
+    line-height: 89px;
+    text-align: center;
+  }
+
+  /* highlighting the brand name */
+  .heading h1 span {
+    font-size: 68px;
+  }
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 19px;
+    font-weight: 100;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .button-div button {
+    width: 13%;
+    height: 9vh;
+  }
+  .button-div button span {
+    font-size: 14px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 95%;
+    height: 10vh;
+  }
+  /* h4 */
+  .sponsers div {
+    width: 17%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 37px;
+  }
+  .two {
+    font-size: 37px;
+  }
+  #three {
+    font-size: 37px;
+  }
+  .four {
+    font-size: 37px;
+  }
+  .five {
+    font-size: 37px;
+  }
+}
+
+/* from 972px to 1100 width */
+
+@media only screen and (min-width: 900px) and (max-width: 971px) {
+  .heading h1 {
+    font-size: 63px;
+    line-height: 89px;
+  }
+  .right-image {
+    display: none;
+  }
+  .heading h1 span {
+    font-size: 63px;
+  }
+}
+
+/* from 900px to 972 width */
+
+@media only screen and (min-width: 900px) and (max-width: 972px) {
+  section {
+    height: 90vh;
+  }
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 90vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+
+  .heading {
+    width: 100%;
+    height: 44vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+    /* background-color: pink; */
+  }
+
+  .heading h1 {
+    font-size: 63px;
+  }
+  .heading h1 span {
+    color: rgb(191, 2, 2);
+    font-family: "El Messiri", sans-serif;
+    font-size: 63px;
+  }
+
+  /* highlighting the brand name */
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    cursor: default;
+    text-shadow: 1px 1px 2px #4d4d4d75;
+  }
+  .line h3 {
+    font-family: "Roboto", sans-serif;
+    font-size: 19px;
+    font-weight: 100;
+    text-align: center;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .button-div button {
+    width: 13%;
+    height: 9vh;
+    background: rgb(129, 53, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .one {
+    font-size: 37px;
+  }
+  .two {
+    font-size: 37px;
+  }
+  #three {
+    font-size: 37px;
+  }
+  .four {
+    font-size: 37px;
+  }
+  .five {
+    font-size: 37px;
+  }
+}
+
+/* from 800px to 900px width */
+
+@media only screen and (min-width: 800px) and (max-width: 900px) {
+  .first-section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 10vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 57vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 63px;
+    line-height: 89px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 63px;
+  }
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 19px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 13%;
+    height: 9vh;
+  }
+  .button-div button span {
+    font-size: 13px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 95%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 17%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 37px;
+  }
+  .two {
+    font-size: 37px;
+  }
+  #three {
+    font-size: 37px;
+  }
+  .four {
+    font-size: 37px;
+  }
+  .five {
+    font-size: 37px;
+  }
+}
+
+@media only screen and (min-width: 745px) and (max-width: 801px) {
+  .first-section {
+    width: 100%;
+    height: 88vh;
+    position: relative;
+    top: 10vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 44vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 52px;
+    line-height: 89px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 52px;
+  }
+
+  /* line under the heading */
+  .line {
+    height: 8vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    cursor: default;
+    text-shadow: 1px 1px 2px #4d4d4d75;
+  }
+  .line h3 {
+    font-size: 17px;
+  }
+  .button-div {
+    width: 100%;
+    height: 8vh;
+  }
+  .button-div button {
+    width: 13%;
+    height: 8vh;
+  }
+  .button-div button span {
+    font-size: 12px;
+  }
+  .sponsers {
+    width: 100%;
+  }
+  .one {
+    font-size: 33px;
+  }
+  .two {
+    font-size: 33px;
+  }
+  #three {
+    font-size: 33px;
+  }
+  .four {
+    font-size: 33px;
+  }
+  .five {
+    font-size: 33px;
+  }
+}
+/* @media only screen and (max-width:770px)  {
+           .first.section{
+             z-index: 2; 
+        }
+    } */
+
+@media only screen and (min-width: 687px) and (max-width: 746px) {
+  .first-section {
+    height: 110vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 110vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 57vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 59px;
+    line-height: 89px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 59px;
+  }
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 16px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 16%;
+    height: 8vh;
+  }
+  .button-div button span {
+    font-size: 13px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 17%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 30px;
+  }
+  .two {
+    font-size: 30px;
+  }
+  #three {
+    font-size: 30px;
+  }
+  .four {
+    font-size: 30px;
+  }
+  .five {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 687px) {
+  .first-section {
+    height: 110vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 110vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 57vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 49px;
+    line-height: 89px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 49px;
+  }
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 16px;
+    text-align: center;
+    line-height: 28px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 16%;
+    height: 8vh;
+  }
+  .button-div button span {
+    font-size: 13px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 30px;
+  }
+  .two {
+    font-size: 30px;
+  }
+  #three {
+    font-size: 30px;
+  }
+  .four {
+    font-size: 30px;
+  }
+  .five {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 534px) and (max-width: 600px) {
+  .first-section {
+    height: 110vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 110vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 57vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 46px;
+    line-height: 89px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 49px;
+  }
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 17px;
+    text-align: center;
+    line-height: 28px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 20%;
+    height: 8vh;
+  }
+  .button-div button span {
+    font-size: 13px;
+  }
+  .button-div button span {
+    font-size: 12px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 27px;
+  }
+  .two {
+    font-size: 27px;
+  }
+  #three {
+    font-size: 27px;
+  }
+  .four {
+    font-size: 27px;
+  }
+  .five {
+    font-size: 27px;
+  }
+}
+@media only screen and (min-width: 455px) and (max-width: 534px) {
+  .first-section {
+    height: 83vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 83vh;
+  }
+
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 39vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 40px;
+    line-height: 61px;
+  }
+
+  /* highlighting the brand name */
+
+  .heading h1 span {
+    font-size: 40px;
+  }
+
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 15px;
+    text-align: center;
+    line-height: 28px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 22%;
+    height: 7vh;
+  }
+  .button-div button span {
+    font-size: 10px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 23px;
+  }
+  .two {
+    font-size: 23px;
+  }
+  #three {
+    font-size: 23px;
+  }
+  .four {
+    font-size: 23px;
+  }
+  .five {
+    font-size: 23px;
+  }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 455px) {
+  .first-section {
+    height: 80vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 80vh;
+  }
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 41vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 36px;
+    line-height: 61px;
+  }
+  /* highlighting the brand name */
+  .heading h1 span {
+    font-size: 36px;
+  }
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 13px;
+    text-align: center;
+    line-height: 28px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 22%;
+    height: 6vh;
+  }
+  .button-div button span {
+    font-size: 9px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 20px;
+  }
+  .two {
+    font-size: 20px;
+  }
+  #three {
+    font-size: 20px;
+  }
+  .four {
+    font-size: 20px;
+  }
+  .five {
+    font-size: 20px;
+  }
+}
+@media only screen and (min-width: 340px) and (max-width: 400px) {
+  .first-section {
+    height: 50vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 50vh;
+  }
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 21vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+  /* highlighting the brand name */
+  .heading h1 span {
+    font-size: 24px;
+  }
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 10px;
+    text-align: center;
+    line-height: 21px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 23%;
+    height: 5vh;
+  }
+  .button-div button span {
+    font-size: 7px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 15px;
+  }
+  .two {
+    font-size: 15px;
+  }
+  #three {
+    font-size: 15px;
+  }
+  .four {
+    font-size: 15px;
+  }
+  .five {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (min-width: 230px) and (max-width: 340px) {
+  .first-section {
+    height: 60vh;
+  }
+  /* first section right side */
+  .right-image {
+    display: none;
+  }
+
+  /* first section left side */
+  .left {
+    background: url("../images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg")
+      no-repeat center center/cover;
+    width: 100%;
+    height: 60vh;
+  }
+  /* first section right side */
+  /* main heading */
+  .heading {
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: default;
+  }
+
+  .heading h1 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+  /* highlighting the brand name */
+  .heading h1 span {
+    font-size: 24px;
+  }
+  /* line under the heading */
+  .line {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line h3 {
+    font-size: 10px;
+    text-align: center;
+    line-height: 21px;
+  }
+
+  /* contact us button */
+  .button-div {
+    width: 100%;
+  }
+  .button-div button {
+    width: 23%;
+    height: 5vh;
+  }
+  .button-div button span {
+    font-size: 7px;
+  }
+
+  /*  Companies  */
+  .sponsers {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+  }
+
+  /* h4 */
+  .sponsers div {
+    width: 18%;
+    height: 3rem;
+  }
+  .one {
+    font-size: 12px;
+  }
+  .two {
+    font-size: 12px;
+  }
+  #three {
+    font-size: 12px;
+  }
+  .four {
+    font-size: 12px;
+  }
+  .five {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,1578 @@
+@media screen and (max-width:1406px) {
+    .partners{
+        height: 50vh;
+        width: 100%;
+        /* background: green; */
+    }
+/* first div */
+.first-div{
+    width: 87%;
+    /* background: #671313; */
+ 
+}
+.first-div-one{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-three{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+/* second div */
+.second-div{
+    width: 100%;
+    /* background: #211367; */
+}
+.second-div-one{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+}
+
+@media screen and (max-width:994px) {
+
+    /* partners section */
+.partners{
+    height: 50vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 60%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 46px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 10vh;
+    width: 94%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first-div-one{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.first-div-three{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2.56rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2.56rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 2.56rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2.66rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2.66rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+            font-size: 2.66rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+}
+@media screen and (max-width:888px) {
+
+    /* partners section */
+.partners{
+    height: 50vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 60%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 46px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 10vh;
+    width: 94%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first-div-one{
+    height: 10vh;
+    width: 36%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 23%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.first-div-three{
+    height: 10vh;
+    width: 36%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2.56rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2.56rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 2.56rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 37%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 32%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 25%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2.66rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2.66rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+            font-size: 2.66rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+}
+
+@media screen and (max-width:788px) {
+
+    /* partners section */
+.partners{
+    height: 50vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 100%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 46px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first-div-one{
+    height: 10vh;
+    width: 36%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 23%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.first-div-three{
+    height: 10vh;
+    width: 36%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2.45rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2.45rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 2.45rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 35%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 34%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 21%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2.55rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2.55rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+            font-size: 2.55rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+}
+
+@media screen and (max-width:702px) {
+
+.first-div-one{
+    height: 10vh;
+    width: 40%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 25%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.first-div-three{
+    height: 10vh;
+    width: 32%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2.39rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2.39rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 2.39rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+
+
+
+.second-div-one{
+    height: 10vh;
+    width: 30%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 36%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 26%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2.42rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2.50rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+            font-size: 2.50rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+}
+
+@media screen and (max-width:635px) {
+
+   
+    /* partners section */
+.partners{
+    height: 50vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 100%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.first-div-one{
+    height: 10vh;
+    width: 37%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 27%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.first-div-three{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2.25rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2.25rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 2.25rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 30%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 29%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2.25rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2.25rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 2.25rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+    }
+
+
+    
+@media screen and (max-width:590px) {
+
+   
+    /* partners section */
+.partners{
+    height: 47vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 100%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 32vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 15vh;
+    width: 100%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+  
+}
+.first-div-one{
+    height: 10vh;
+    width: 37%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 30%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}.first-div-three{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 2rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 1.95rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 34%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 27%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 2rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 2rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 2rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+    }
+
+
+
+
+
+
+
+        
+@media screen and (max-width:532px) {
+     /* partners section */
+     .partners{
+        height: 41vh;
+        width: 100%;
+        /* background: green; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+    }
+    /* heading of partner */
+    .partners-heading{
+        height: 9vh;
+        width: 100%;
+        /* background: pink; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .partners-heading h2{
+        font-family: 'Teko', sans-serif;
+        font-size: 28px;
+    }
+    /* parent div of both div's */
+    .partners-para{
+        height: 29vh;
+        width: 100%;
+        /* background: yellow; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+   
+    .partners-heading h2{
+        font-family: 'Teko', sans-serif;
+        font-size: 35px;
+    }
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 1.75rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 1.75rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 1.75rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 1.75rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 1.75rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 1.75rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+    }
+
+
+
+
+        
+@media screen and (max-width:458px) {
+
+   
+    /* partners section */
+.partners{
+    height: 37vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+}
+/* heading of partner */
+.partners-heading{
+    height: 9vh;
+    width: 100%;
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.partners-heading h2{
+    font-family: 'Teko', sans-serif;
+    font-size: 28px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* parent div of both div's */
+.partners-para{
+    height: 27vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* first div */
+.first-div{
+    height: 12vh;
+    width: 100%;
+    /* background: #671313; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+  
+}
+.first-div-one{
+    height: 10vh;
+    width: 37%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.first-div-two{
+    height: 10vh;
+    width: 30%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}.first-div-three{
+    height: 10vh;
+    width: 33%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#first-div-partners-first{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 1.55rem;
+    color: rgb(57, 45, 225);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-second{
+    font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+    font-size: 1.55rem;
+    color: rgb(252, 72, 105);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+#first-div-partners-third{
+    font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+    font-size: 1.55rem;
+    color: rgb(53, 255, 181);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+/* second div */
+.second-div{
+    height: 10vh;
+    width: 100%;
+    /* background: #211367; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-div-one{
+    height: 10vh;
+    width: 35%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-two{
+    height: 10vh;
+    width: 34%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.second-div-three{
+    height: 10vh;
+    width: 28%;
+    /* background: #754d09cc; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#second-div-partners-first{
+font-family: 'Libre Barcode 128 Text', cursive;
+font-size: 1.55rem;
+text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+
+#second-div-partners-second{
+    font-family: 'Nabla', cursive;
+    font-size: 1.55rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+/* #second-div-partners-third{
+    font-family: 'Just Another Hand', cursive;
+        font-size: 2.66rem;
+} */
+
+#second-div-partners-third{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 1.65rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+}
+    }
+
+
+
+
+    @media screen and (max-width:402px) {
+             /* partners section */
+             .partners{
+                height: 35vh;
+                width: 100%;
+                /* background: green; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+            }
+            /* heading of partner */
+            .partners-heading{
+                height: 9vh;
+                width: 100%;
+                /* background: pink; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .partners-heading h2{
+                font-family: 'Teko', sans-serif;
+                font-size: 28px;
+            }
+            /* parent div of both div's */
+            .partners-para{
+                height: 25vh;
+                width: 100%;
+                /* background: yellow; */
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+        .partners-heading h2{
+            font-family: 'Teko', sans-serif;
+            font-size: 30px;
+        }
+    #first-div-partners-first{
+        font-family: 'Sedgwick Ave Display', cursive;
+        font-size: 1.35rem;
+        color: rgb(57, 45, 225);
+        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+    #first-div-partners-second{
+        font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+        font-size: 1.35rem;
+        color: rgb(252, 72, 105);
+        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+    #first-div-partners-third{
+        font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+        font-size: 1.35rem;
+        color: rgb(53, 255, 181);
+        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+  
+    #second-div-partners-first{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 1.35rem;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+    
+    #second-div-partners-second{
+        font-family: 'Nabla', cursive;
+        font-size: 1.35rem;
+        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+    /* #second-div-partners-third{
+        font-family: 'Just Another Hand', cursive;
+            font-size: 2.66rem;
+    } */
+    
+    #second-div-partners-third{
+        font-family: 'Bungee Shade', cursive;
+        font-size: 1.35rem;
+                text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+        }
+
+
+        @media screen and (max-width:354px) {
+
+   
+            /* partners section */
+        .partners{
+            height: 35vh;
+            width: 100%;
+            /* background: green; */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+        }
+        /* heading of partner */
+        .partners-heading{
+            height: 9vh;
+            width: 100%;
+            /* background: pink; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .partners-heading h2{
+            font-family: 'Teko', sans-serif;
+            font-size: 28px;
+        }
+        /* parent div of both div's */
+        .partners-para{
+            height: 25vh;
+            width: 100%;
+            /* background: yellow; */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        /* first div */
+        .first-div{
+            height: 12vh;
+            width: 100%;
+            /* background: #671313; */
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+          
+          
+        }
+        .first-div-one{
+            height: 10vh;
+            width: 37%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+        }
+        .first-div-two{
+            height: 10vh;
+            width: 30%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+        
+        }.first-div-three{
+            height: 10vh;
+            width: 33%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+           
+        }
+        #first-div-partners-first{
+            font-family: 'Sedgwick Ave Display', cursive;
+            font-size: 1.15rem;
+            color: rgb(57, 45, 225);
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+        #first-div-partners-second{
+            font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+            font-size: 1.10rem;
+            color: rgb(252, 72, 105);
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+        #first-div-partners-third{
+            font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+            font-size: 1.10rem;
+            color: rgb(53, 255, 181);
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+        
+        /* second div */
+        .second-div{
+            height: 10vh;
+            width: 100%;
+            /* background: #211367; */
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        
+        .second-div-one{
+            height: 10vh;
+            width: 34%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+        }
+        .second-div-two{
+            height: 10vh;
+            width: 34%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+        }
+        .second-div-three{
+            height: 10vh;
+            width: 27%;
+            /* background: #754d09cc; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+        }
+        #second-div-partners-first{
+        font-family: 'Libre Barcode 128 Text', cursive;
+        font-size: 1.15rem;
+        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+        
+        #second-div-partners-second{
+            font-family: 'Nabla', cursive;
+            font-size: 1.15rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+        /* #second-div-partners-third{
+            font-family: 'Just Another Hand', cursive;
+                font-size: 2.66rem;
+        } */
+        
+        #second-div-partners-third{
+            font-family: 'Bungee Shade', cursive;
+            font-size: 1.15rem;
+                    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+        }
+            }
+
+            @media screen and (max-width:300px) {
+
+   
+                /* partners section */
+            .partners{
+                height: 35vh;
+                width: 100%;
+                /* background: green; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                /* background: url(images/purple-watercolor-background-desktop-wallpaper-abstract-design.jpg) no-repeat center center/cover; */
+            }
+            /* heading of partner */
+            .partners-heading{
+                height: 9vh;
+                width: 100%;
+                /* background: pink; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .partners-heading h2{
+                font-family: 'Teko', sans-serif;
+                font-size: 23px;
+            }
+            /* parent div of both div's */
+            .partners-para{
+                height: 25vh;
+                width: 100%;
+                /* background: yellow; */
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+            /* first div */
+            .first-div{
+                height: 12vh;
+                width: 100%;
+                /* background: #671313; */
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+              
+              
+            }
+            .first-div-one{
+                height: 10vh;
+                width: 37%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            
+            }
+            .first-div-two{
+                height: 10vh;
+                width: 30%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+               
+            
+            }.first-div-three{
+                height: 10vh;
+                width: 33%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+               
+            }
+            #first-div-partners-first{
+                font-family: 'Sedgwick Ave Display', cursive;
+                font-size: 0.95rem;
+                color: rgb(57, 45, 225);
+                text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+            #first-div-partners-second{
+                font-family: 'Great Vibes', cursive;    font-size: 2.56rem;
+                font-size: 0.95rem;
+                color: rgb(252, 72, 105);
+                text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+            #first-div-partners-third{
+                font-family: 'Caesar Dressing', cursive;    font-size: 2.56rem;
+                font-size: 0.95rem;
+                color: rgb(53, 255, 181);
+                text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+            
+            /* second div */
+            .second-div{
+                height: 10vh;
+                width: 100%;
+                /* background: #211367; */
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+            
+            .second-div-one{
+                height: 10vh;
+                width: 34%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            
+            }
+            .second-div-two{
+                height: 10vh;
+                width: 34%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            
+            }
+            .second-div-three{
+                height: 10vh;
+                width: 30%;
+                /* background: #754d09cc; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            
+            }
+            #second-div-partners-first{
+            font-family: 'Libre Barcode 128 Text', cursive;
+            font-size: 0.95rem;
+            text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+            
+            #second-div-partners-second{
+                font-family: 'Nabla', cursive;
+                font-size: 0.95rem;
+                text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+            /* #second-div-partners-third{
+                font-family: 'Just Another Hand', cursive;
+                    font-size: 2.66rem;
+            } */
+            
+            #second-div-partners-third{
+                font-family: 'Bungee Shade', cursive;
+                font-size: 0.95rem;
+                        text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+            }
+                }

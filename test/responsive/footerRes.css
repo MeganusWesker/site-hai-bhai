@@ -1,0 +1,1312 @@
+@media screen and (max-width:1188px) {
+
+/* footer */
+footer{
+    height: 36vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/* main footer */
+.main-footer{
+    height: 36vh;
+    width: 100%;
+    /* background: red; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* left part */
+
+.main-footer-left-part{
+    height: 30vh;
+    width: 18%;
+    /* background: rgb(105, 66, 9); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* left more image - child of left part */
+.main-footer-left-part img{
+    height: 30vh;
+}
+
+/* center area */
+.main-footer-center-part{
+    height: 30vh;
+    width: 34%;
+    /* background: rgb(15, 9, 105); */
+}
+/* child of center */
+.footer-heading{
+    height: 9vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footer-heading-brand-name{
+        font-family: 'El Messiri', sans-serif;
+        font-size: 37px;
+        color: #111010;
+        cursor: default;
+        user-select: none;
+        font-size: 300;
+        text-shadow: 1px 2px 2px #4d4d4d75;
+    
+}
+.footer-heading-brand-name span{
+ 
+        color: rgb(191, 2, 2);
+    
+}
+.socials{
+    height: 8vh;
+    width: 40%;
+    /* background: pink; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.socials a img{
+   height: 36px;
+}
+
+.email{
+    height: 4.9vh;
+    width: 53%;
+    /* background: rgb(61, 33, 38); */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+  
+}
+.email img{
+    height: 20px;
+}
+.email h2{
+    font-family: Teko, sans-serif;
+    color: #111010;
+    text-decoration: none;
+    user-select: none;
+    font-size: 18px;
+    font-weight: 100;
+}
+.ph-no{
+    height: 3.2vh;
+    width: 32%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background: yellow; */
+  
+}
+.ph-no img{
+    height: 16px;
+}
+.ph-no h2{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #111010;
+    text-decoration: none;
+    user-select: none;
+    font-size: 18px;
+    font-weight: 50;
+}
+
+
+/* right part */
+.main-footer-right-part{
+    height: 30vh;
+    width: 20%;
+    /* background: rgb(105, 66, 9); */
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.footer-nav{
+    height: 28vh;
+    width: 60%;
+    /* background: pink; */
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.footer-line{
+height: 28vh;
+width: 1%;
+/* background: rgb(101, 29, 167); */
+}
+.footer-nav-elements{
+    height: 28vh;
+    width: 50%;
+    /* background: yellow; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.footer-nav-items{
+height: 5vh;
+width: 59%;
+/* background: yellow; */
+display: flex;
+align-items: center;
+justify-content: flex-start;
+cursor: pointer;
+}
+.footer-nav-items img{
+    height: 12px;
+    margin-right: 3px;
+}
+.footer-nav-items h3{
+    font-family: Teko, sans-serif;
+    font-weight: 100;
+    transition: 0.2s ease;
+}
+.footer-nav-items:hover{
+    color: #8528e2;
+    transition:color 0.2s ease;
+
+}
+
+
+/* last end */
+
+.end{
+    height: 3vh;
+    width: 100%;
+    /* background: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.end img{
+    height: 10px;
+    margin-right: 5px;
+}
+.end h3{
+    font-family: Teko, sans-serif;
+    color: #000000;
+    text-decoration: none;
+    user-select: none;
+    font-size: 12px;
+    font-weight: 100;
+}
+}
+
+@media screen and (max-width:995px) {
+
+    /* footer */
+    footer{
+        height: 36vh;
+        width: 100%;
+        /* background: green; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    /* main footer */
+    .main-footer{
+        height: 36vh;
+        width: 100%;
+        /* background: red; */
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    /* left part */
+    
+    .main-footer-left-part{
+        height: 30vh;
+        width: 18%;
+        /* background: rgb(105, 66, 9); */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* left more image - child of left part */
+    .main-footer-left-part img{
+        height: 30vh;
+    }
+    
+    /* center area */
+    .main-footer-center-part{
+        height: 30vh;
+        width: 48%;
+        /* background: rgb(15, 9, 105); */
+    }
+    /* child of center */
+    .footer-heading{
+        height: 9vh;
+        width: 100%;
+        /* background: green; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+  
+    .socials{
+        height: 8vh;
+        width: 40%;
+        /* background: pink; */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 5rem;
+       
+    }
+    
+    .socials a img{
+       height: 36px;
+    }
+    
+    .email{
+        height: 4.9vh;
+        width: 53%;
+        /* background: rgb(61, 33, 38); */
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        cursor: pointer;
+        margin-left: 3.6rem;
+      
+    }
+    .email img{
+        height: 20px;
+    }
+  
+    .ph-no{
+        height: 3.2vh;
+        width: 32%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        /* background: yellow; */
+        margin-left: 4rem;
+        margin-top:12px;
+      
+    }
+  
+    }
+
+
+    @media screen and (max-width:800px) {
+
+        /* footer */
+        footer{
+            height: 36vh;
+            width: 100%;
+            /* background: green; */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+        /* main footer */
+        .main-footer{
+            height: 36vh;
+            width: 100%;
+            /* background: red; */
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+        
+        /* left part */
+        
+        .main-footer-left-part{
+            height: 30vh;
+            width: 18%;
+            /* background: rgb(105, 66, 9); */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        /* left more image - child of left part */
+        .main-footer-left-part img{
+            height: 30vh;
+        }
+        
+        /* center area */
+        .main-footer-center-part{
+            height: 30vh;
+            width: 55%;
+            /* background: rgb(15, 9, 105); */
+        }
+      
+        .socials{
+            height: 8vh;
+            width: 40%;
+            /* background: pink; */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-left: 8rem;
+           
+        }
+        
+        .email{
+            height: 4.9vh;
+            width: 53%;
+            /* background: rgb(61, 33, 38); */
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            cursor: pointer;
+            margin-left: 6rem;
+          
+        }
+        .email img{
+            height: 20px;
+        }
+      
+        .ph-no{
+            height: 3.2vh;
+            width: 32%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            /* background: yellow; */
+            margin-left: 9rem;
+          
+        }
+        .ph-no img{
+            height: 16px;
+        }
+        
+        
+        
+        /* right part */
+        .main-footer-right-part{
+            height: 30vh;
+            width: 15%;
+            /* background: rgb(105, 66, 9); */
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            
+        }
+        .footer-nav{
+            height: 28vh;
+            width: 100%;
+            /* background: pink; */
+            display: flex;
+            justify-content:space-evenly;
+            align-items: center;
+        }
+       
+        }
+    
+    
+        @media screen and (max-width:679px) {
+
+            /* footer */
+            footer{
+                height: 36vh;
+                width: 100%;
+                /* background: green; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            /* main footer */
+            .main-footer{
+                height: 36vh;
+                width: 100%;
+                /* background: red; */
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+            }
+            
+            /* left part */
+            
+            .main-footer-left-part{
+                height: 30vh;
+                width: 23%;
+                /* background: rgb(105, 66, 9); */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            /* left more image - child of left part */
+            .main-footer-left-part img{
+                height: 28vh;
+            }
+            
+            /* center area */
+            .main-footer-center-part{
+                height: 30vh;
+                width: 59%;
+                /* background: rgb(15, 9, 105); */
+            }
+            /* child of center */
+            .footer-heading{
+                height: 9vh;
+                width: 100%;
+                /* background: green; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .footer-heading-brand-name{
+                    font-family: 'El Messiri', sans-serif;
+                    font-size: 37px;
+                    color: #111010;
+                    cursor: default;
+                    user-select: none;
+                    font-size: 300;
+                    text-shadow: 1px 2px 2px #4d4d4d75;
+                
+            }
+            .footer-heading-brand-name span{
+             
+                    color: rgb(191, 2, 2);
+                
+            }
+            .socials{
+                height: 8vh;
+                width: 40%;
+                /* background: pink; */
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-left: 8rem;
+               
+            }
+            
+            .socials a img{
+               height: 36px;
+            }
+            
+            .email{
+                height: 4.9vh;
+                width: 53%;
+                /* background: rgb(61, 33, 38); */
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                cursor: pointer;
+                margin-left: 6rem;
+              
+            }
+            .email img{
+                height: 20px;
+            }
+            .email h2{
+                font-family: Teko, sans-serif;
+                color: #111010;
+                text-decoration: none;
+                user-select: none;
+                font-size: 18px;
+                font-weight: 100;
+            }
+            .ph-no{
+                height: 3.2vh;
+                width: 32%;
+                display: flex;
+                justify-content: space-evenly;
+                align-items: center;
+                /* background: yellow; */
+                margin-left: 9rem;
+              
+            }
+            .ph-no img{
+                height: 16px;
+            }
+            .ph-no h2{
+                font-family: 'Bebas Neue', sans-serif;
+                color: #111010;
+                text-decoration: none;
+                user-select: none;
+                font-size: 18px;
+                font-weight: 50;
+            }
+            
+            
+            /* right part */
+            .main-footer-right-part{
+                height: 30vh;
+                width: 17%;
+                /* background: rgb(105, 66, 9); */
+                display: flex;
+                justify-content:center;
+                align-items: center;
+                
+            }
+            .footer-nav{
+                height: 28vh;
+                width: 100%;
+                /* background: pink; */
+                display: flex;
+                justify-content:space-evenly;
+                align-items: center;
+            }
+            .footer-line{
+            height: 28vh;
+            width: 1%;
+            background: rgb(101, 29, 167);
+            }
+            .footer-nav-elements{
+                height: 28vh;
+                width: 70%;
+                /* background: yellow; */
+              display: flex;
+              flex-direction: column;
+              justify-content: center;
+              align-items: flex-start;
+            }
+            .footer-nav-items{
+            height: 5vh;
+            width: 59%;
+            /* background: yellow; */
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            cursor: pointer;
+            }
+            .footer-nav-items img{
+                height: 12px;
+                margin-right: 3px;
+            }
+            .footer-nav-items h3{
+                font-family: Teko, sans-serif;
+                font-weight: 100;
+                transition: 0.2s ease;
+            }
+            .footer-nav-items:hover{
+                color: #8528e2;
+                transition:color 0.2s ease;
+            
+            }
+            
+            
+            /* last end */
+            
+            .end{
+                height: 3vh;
+                width: 100%;
+                /* background: red; */
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .end img{
+                height: 10px;
+                margin-right: 5px;
+            }
+            .end h3{
+                font-family: Teko, sans-serif;
+                color: #000000;
+                text-decoration: none;
+                user-select: none;
+                font-size: 12px;
+                font-weight: 100;
+            }
+            }
+
+            @media screen and (max-width:579px) {
+
+                /* footer */
+                footer{
+                    height: 36vh;
+                    width: 100%;
+                    /* background: green; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    align-items: center;
+                }
+                /* main footer */
+                .main-footer{
+                    height: 36vh;
+                    width: 100%;
+                    /* background: red; */
+                    display: flex;
+                    justify-content: space-evenly;
+                    align-items: center;
+                }
+                
+                /* left part */
+                
+                .main-footer-left-part{
+                    height: 30vh;
+                    width: 23%;
+                    /* background: rgb(105, 66, 9); */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                /* left more image - child of left part */
+                .main-footer-left-part img{
+                    height: 20vh;
+                }
+                
+                /* center area */
+                .main-footer-center-part{
+                    height: 30vh;
+                    width: 60%;
+                    /* background: rgb(15, 9, 105); */
+                }
+                /* child of center */
+                .footer-heading{
+                    height: 9vh;
+                    width: 100%;
+                    /* background: green; */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .footer-heading-brand-name{
+                        font-family: 'El Messiri', sans-serif;
+                        font-size: 30px;
+                        color: #111010;
+                        cursor: default;
+                        user-select: none;
+                        font-size: 300;
+                        text-shadow: 1px 2px 2px #4d4d4d75;
+                    
+                }
+                .footer-heading-brand-name span{
+                 
+                        color: rgb(191, 2, 2);
+                    
+                }
+                .socials{
+                    height: 8vh;
+                    width: 50%;
+                    /* background: pink; */
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-left: 5rem;
+                   
+                }
+                
+                .socials a img{
+                   height: 34px;
+                }
+                
+                .email{
+                    height: 4.9vh;
+                    width: 70%;
+                    /* background: rgb(61, 33, 38); */
+                    display: flex;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    cursor: pointer;
+                    margin-left: 3rem;
+                  
+                }
+                .email img{
+                    height: 20px;
+                }
+                .email h2{
+                    font-family: Teko, sans-serif;
+                    color: #111010;
+                    text-decoration: none;
+                    user-select: none;
+                    font-size: 18px;
+                    font-weight: 100;
+                }
+                .ph-no{
+                    height: 3.2vh;
+                    width: 40%;
+                    display: flex;
+                    justify-content: space-evenly;
+                    align-items: center;
+                    /* background: yellow; */
+                    margin-left: 6rem;
+                  
+                }
+                .ph-no img{
+                    height: 16px;
+                }
+                .ph-no h2{
+                    font-family: 'Bebas Neue', sans-serif;
+                    color: #111010;
+                    text-decoration: none;
+                    user-select: none;
+                    font-size: 18px;
+                    font-weight: 50;
+                }
+                
+                
+                /* right part */
+                .main-footer-right-part{
+                    height: 30vh;
+                    width: 17%;
+                    /* background: rgb(105, 66, 9); */
+                    display: flex;
+                    justify-content:center;
+                    align-items: center;
+                    
+                }
+                .footer-nav{
+                    height: 28vh;
+                    width: 100%;
+                    /* background: pink; */
+                    display: flex;
+                    justify-content:space-evenly;
+                    align-items: center;
+                }
+                .footer-line{
+                height: 28vh;
+                width: 1%;
+                /* background: rgb(101, 29, 167); */
+                }
+                .footer-nav-elements{
+                    height: 28vh;
+                    width: 70%;
+                    /* background: yellow; */
+                  display: flex;
+                  flex-direction: column;
+                  justify-content: center;
+                  align-items: flex-start;
+                }
+                .footer-nav-items{
+                height: 5vh;
+                width: 59%;
+                /* background: yellow; */
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                cursor: pointer;
+                }
+                .footer-nav-items img{
+                    height: 12px;
+                    margin-right: 3px;
+                }
+                .footer-nav-items h3{
+                    font-family: Teko, sans-serif;
+                    font-weight: 100;
+                    transition: 0.2s ease;
+                    font-size: 16px;
+                }
+                .footer-nav-items:hover{
+                    color: #8528e2;
+                    transition:color 0.2s ease;
+                
+                }
+                
+                
+                /* last end */
+                
+                .end{
+                    height: 3vh;
+                    width: 100%;
+                    /* background: red; */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+                .end img{
+                    height: 10px;
+                    margin-right: 5px;
+                }
+                .end h3{
+                    font-family: Teko, sans-serif;
+                    color: #000000;
+                    text-decoration: none;
+                    user-select: none;
+                    font-size: 12px;
+                    font-weight: 100;
+                }
+                }
+
+                @media screen and (max-width:479px) {
+
+                    /* footer */
+                    footer{
+                        height: 36vh;
+                        width: 100%;
+                        /* background: green; */
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-between;
+                        align-items: center;
+                    }
+                    /* main footer */
+                    .main-footer{
+                        height: 36vh;
+                        width: 100%;
+                        /* background: red; */
+                        display: flex;
+                        justify-content: space-evenly;
+                        align-items: center;
+                    }
+                    
+                    /* left part */
+                    
+                    .main-footer-left-part{
+                        height: 30vh;
+                        width: 30%;
+                        /* background: rgb(105, 66, 9); */
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    /* left more image - child of left part */
+                    .main-footer-left-part img{
+                        height: 20vh;
+                    }
+                    
+                    /* center area */
+                    .main-footer-center-part{
+                        height: 30vh;
+                        width: 70%;
+                        /* background: rgb(15, 9, 105); */
+                    }
+                    /* child of center */
+                    .footer-heading{
+                        height: 9vh;
+                        width: 100%;
+                        /* background: green; */
+                        display: flex;
+                        justify-content: flex-end;
+                        align-items: center;
+                    }
+                    .footer-heading-brand-name{
+                            font-family: 'El Messiri', sans-serif;
+                            font-size: 25px;
+                            color: #111010;
+                            cursor: default;
+                            user-select: none;
+                            font-size: 300;
+                            text-shadow: 1px 2px 2px #4d4d4d75;
+                        
+                    }
+                    .footer-heading-brand-name span{
+                     
+                            color: rgb(191, 2, 2);
+                        
+                    }
+                    .socials{
+                        height: 8vh;
+                        width: 50%;
+                        /* background: pink; */
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        margin-left: 7.67rem;
+                       
+                       
+                    }
+                    
+                    .socials a img{
+                       height: 34px;
+                    }
+                    
+                    .email{
+                        height: 4.9vh;
+                        width: 70%;
+                        /* background: rgb(61, 33, 38); */
+                        display: flex;
+                        justify-content: flex-end;
+                        align-items: center;
+                        cursor: pointer;
+                        margin-left: 4.78rem;
+                        
+                      
+                    }
+                    .email img{
+                        height: 20px;
+                    }
+                    .email h2{
+                        font-family: Teko, sans-serif;
+                        color: #111010;
+                        text-decoration: none;
+                        user-select: none;
+                        font-size: 18px;
+                        font-weight: 100;
+                    }
+                    .ph-no{
+                        height: 3.2vh;
+                        width: 40%;
+                        display: flex;
+                        justify-content: flex-end;
+                        align-items: center;
+                        /* background: yellow; */
+                        margin-left: 9.55rem;
+                       
+                      
+                    }
+                    .ph-no img{
+                        height: 16px;
+                    }
+                    .ph-no h2{
+                        font-family: 'Bebas Neue', sans-serif;
+                        color: #111010;
+                        text-decoration: none;
+                        user-select: none;
+                        font-size: 18px;
+                        font-weight: 50;
+                    }
+                    
+                    
+                    /* right part */
+                    .main-footer-right-part{
+                       display: none;
+                        
+                    }
+                    
+                    /* last end */
+                    
+                    .end{
+                        height: 3vh;
+                        width: 100%;
+                        /* background: red; */
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    .end img{
+                        height: 10px;
+                        margin-right: 5px;
+                    }
+                    .end h3{
+                        font-family: Teko, sans-serif;
+                        color: #000000;
+                        text-decoration: none;
+                        user-select: none;
+                        font-size: 12px;
+                        font-weight: 100;
+                    }
+                    }
+
+                    @media screen and (max-width:393px) {
+
+                        /* footer */
+                        footer{
+                            height: 36vh;
+                            width: 100%;
+                            /* background: green; */
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: space-between;
+                            align-items: center;
+                        }
+                        /* main footer */
+                        .main-footer{
+                            height: 36vh;
+                            width: 100%;
+                            /* background: red; */
+                            display: flex;
+                            justify-content: space-evenly;
+                            align-items: center;
+                        }
+                        
+                        /* left part */
+                        
+                        .main-footer-left-part{
+                            height: 30vh;
+                            width: 30%;
+                            /* background: rgb(105, 66, 9); */
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                        /* left more image - child of left part */
+                        .main-footer-left-part img{
+                            height: 18vh;
+                        }
+                        
+                        /* center area */
+                        .main-footer-center-part{
+                            height: 30vh;
+                            width: 70%;
+                            /* background: rgb(15, 9, 105); */
+                        }
+                        /* child of center */
+                        .footer-heading{
+                            height: 9vh;
+                            width: 100%;
+                            /* background: green; */
+                            display: flex;
+                            justify-content: flex-end;
+                            align-items: center;
+                        }
+                        .footer-heading-brand-name{
+                                font-family: 'El Messiri', sans-serif;
+                                font-size: 22px;
+                                color: #111010;
+                                cursor: default;
+                                user-select: none;
+                                font-size: 300;
+                                text-shadow: 1px 2px 2px #4d4d4d75;
+                            
+                        }
+                        .footer-heading-brand-name span{
+                         
+                                color: rgb(191, 2, 2);
+                            
+                        }
+                        .socials{
+                            height: 8vh;
+                            width: 70%;
+                            /* background: pink; */
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            margin-left: 3.56rem;
+                           
+                           
+                        }
+                        
+                        .socials a img{
+                           height: 34px;
+                        }
+                        
+                        .email{
+                            height: 4.9vh;
+                            width: 80%;
+                            /* background: rgb(61, 33, 38); */
+                            display: flex;
+                            justify-content: flex-end;
+                            align-items: center;
+                            cursor: pointer;
+                            margin-left:2.14rem;
+                            
+                          
+                        }
+                        .email img{
+                            height: 20px;
+                        }
+                        .email h2{
+                            font-family: Teko, sans-serif;
+                            color: #111010;
+                            text-decoration: none;
+                            user-select: none;
+                            font-size: 18px;
+                            font-weight: 100;
+                        }
+                        .ph-no{
+                            height: 3.2vh;
+                            width: 60%;
+                            display: flex;
+                            justify-content: flex-end;
+                            align-items: center;
+                            /* background: yellow; */
+                            margin-left:5rem;
+                           
+                          
+                        }
+                        .ph-no img{
+                            height: 16px;
+                        }
+                        .ph-no h2{
+                            font-family: 'Bebas Neue', sans-serif;
+                            color: #111010;
+                            text-decoration: none;
+                            user-select: none;
+                            font-size: 18px;
+                            font-weight: 50;
+                        }
+                        
+                        
+                        /* right part */
+                        .main-footer-right-part{
+                           display: none;
+                            
+                        }
+                        
+                        /* last end */
+                        
+                        .end{
+                            height: 3vh;
+                            width: 100%;
+                            /* background: red; */
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                        }
+                        .end img{
+                            height: 10px;
+                            margin-right: 5px;
+                        }
+                        .end h3{
+                            font-family: Teko, sans-serif;
+                            color: #000000;
+                            text-decoration: none;
+                            user-select: none;
+                            font-size: 12px;
+                            font-weight: 100;
+                        }
+                        }
+
+
+
+
+
+
+                        @media screen and (max-width:300px) {
+
+                            /* footer */
+                            footer{
+                                height: 36vh;
+                                width: 100%;
+                                /* background: green; */
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: space-between;
+                                align-items: center;
+                            }
+                            /* main footer */
+                            .main-footer{
+                                height: 36vh;
+                                width: 100%;
+                                /* background: red; */
+                                display: flex;
+                                justify-content: space-evenly;
+                                align-items: center;
+                            }
+                            
+                            /* left part */
+                            
+                            .main-footer-left-part{
+                                height: 30vh;
+                                width: 30%;
+                                /* background: rgb(105, 66, 9); */
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                            }
+                            /* left more image - child of left part */
+                            .main-footer-left-part img{
+                                height: 15vh;
+                            }
+                            
+                            /* center area */
+                            .main-footer-center-part{
+                                height: 30vh;
+                                width: 70%;
+                                /* background: rgb(15, 9, 105); */
+                            }
+                            /* child of center */
+                            .footer-heading{
+                                height: 9vh;
+                                width: 100%;
+                                /* background: green; */
+                                display: flex;
+                                justify-content: flex-end;
+                                align-items: center;
+                            }
+                            .footer-heading-brand-name{
+                                    font-family: 'El Messiri', sans-serif;
+                                    font-size: 18px;
+                                    color: #111010;
+                                    cursor: default;
+                                    user-select: none;
+                                    font-size: 300;
+                                    text-shadow: 1px 2px 2px #4d4d4d75;
+                                
+                            }
+                            .footer-heading-brand-name span{
+                             
+                                    color: rgb(191, 2, 2);
+                                
+                            }
+                            .socials{
+                                height: 8vh;
+                                width: 70%;
+                                /* background: pink; */
+                                display: flex;
+                                justify-content: space-between;
+                                align-items: center;
+                                margin-left: 3rem;
+                               
+                               
+                            }
+                            
+                            .socials a img{
+                               height: 30px;
+                            }
+                            
+                            .email{
+                                height: 4.9vh;
+                                width: 100%;
+                                /* background: rgb(61, 33, 38); */
+                                display: flex;
+                                justify-content: flex-end;
+                                align-items: center;
+                                cursor: pointer;
+                              margin-left: 0px;
+                                
+                              
+                            }
+                            .email img{
+                                height: 15px;
+                            }
+                            .email h2{
+                                font-family: Teko, sans-serif;
+                                color: #111010;
+                                text-decoration: none;
+                                user-select: none;
+                                font-size: 14px;
+                                font-weight: 100;
+                            }
+                            .ph-no{
+                                height: 3.2vh;
+                                width: 60%;
+                                display: flex;
+                                justify-content: flex-end;
+                                align-items: center;
+                                /* background: yellow; */
+                                margin-left:4rem;
+                               
+                              
+                            }
+                            .ph-no img{
+                                height: 16px;
+                            }
+                            .ph-no h2{
+                                font-family: 'Bebas Neue', sans-serif;
+                                color: #111010;
+                                text-decoration: none;
+                                user-select: none;
+                                font-size: 18px;
+                                font-weight: 50;
+                            }
+                            
+                            
+                            /* right part */
+                            .main-footer-right-part{
+                               display: none;
+                                
+                            }
+                            
+                            /* last end */
+                            
+                            .end{
+                                height: 3vh;
+                                width: 100%;
+                                /* background: red; */
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                            }
+                            .end img{
+                                height: 8px;
+                                margin-right: 5px;
+                            }
+                            .end h3{
+                                font-family: Teko, sans-serif;
+                                color: #000000;
+                                text-decoration: none;
+                                user-select: none;
+                                font-size: 10px;
+                                font-weight: 100;
+                            }
+                            }

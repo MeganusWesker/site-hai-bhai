@@ -1,0 +1,395 @@
+@media screen and (max-width: 1193px) {
+  /* second section */
+  .second-section {
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: relative; */
+  }
+  /* second section center div */
+  .second-section-center-div {
+    height: 32vh;
+    width: 100%;
+    /* background: pink; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 935px) {
+  /* second section */
+  .second-section {
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background:url('images/5_123dasa1.jpg') no-repeat center center/cover;    
+    -webkit-filter: blur(9px);
+    filter: blur(9px);  */
+    /* position: relative; */
+    /* box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+            box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);     */
+  }
+  /* .second-section img{
+    height: 40vh;
+    width: 100%; */
+  /* background:url('images/tp244-bg1-02.jpg') no-repeat center center/cover;  */
+  /* background: linear-gradient(to right, rgba(125, 60, 238, 0.884), rgba(162, 106, 247, 0.7));    */
+  /* -webkit-filter: blur(5px);
+    filter: blur(755px); */
+  /* } */
+  .main-second-section {
+    height: 40vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: transparent;
+    z-index: 1;
+  }
+
+  /* particular line */
+  .center-div-first {
+    height: 5vh;
+    width: 90%;
+    /* background: pink; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .center-div-first h3 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-second {
+    height: 13vh;
+    width: 90%;
+    /* background: rgb(174, 0, 29); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-second h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-third {
+    height: 8vh;
+    width: 90%;
+    /* background: rgb(3, 74, 86); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-third h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* second section */
+  .second-section {
+    height: 50vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background:url('images/5_123dasa1.jpg') no-repeat center center/cover;    
+            -webkit-filter: blur(9px);
+            filter: blur(9px);  */
+    position: relative;
+    /* box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+                    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);     */
+  }
+
+  .main-second-section {
+    height: 50vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: transparent;
+    z-index: 1;
+  }
+  .second-section-center-div {
+    height: 38vh;
+  }
+
+  /* particular line */
+  .center-div-first {
+    height: 5vh;
+    width: 90%;
+    /* background: pink; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .center-div-first h3 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-second {
+    height: 19vh;
+    width: 90%;
+    /* background: rgb(174, 0, 29); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-second h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-third {
+    height: 8vh;
+    width: 90%;
+    /* background: rgb(3, 74, 86); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-third h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .center-div-first h3 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 17px;
+  }
+
+  .center-div-second h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 17px;
+  }
+
+  .center-div-third h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 17px;
+  }
+}
+@media screen and (max-width: 400px) {
+  /* second section */
+  .second-section {
+    height: 65vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background:url('images/5_123dasa1.jpg') no-repeat center center/cover;    
+                            -webkit-filter: blur(9px);
+                            filter: blur(9px);  */
+    position: relative;
+    /* box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+                                    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);     */
+  }
+
+  .main-second-section {
+    height: 65vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: transparent;
+    z-index: 1;
+  }
+  .second-section-center-div {
+    height: 51vh;
+  }
+
+  /* particular line */
+  .center-div-first {
+    height: 5vh;
+    width: 90%;
+    /* background: pink; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .center-div-first h3 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-second {
+    height: 24vh;
+    width: 90%;
+    /* background: rgb(174, 0, 29); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-second h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  /* particular line */
+  .center-div-third {
+    height: 13vh;
+    width: 90%;
+    /* background: rgb(3, 74, 86); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-third h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 335px) {
+  /* second section */
+  .second-section {
+    height: 65vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background:url('images/5_123dasa1.jpg') no-repeat center center/cover;    
+                                    -webkit-filter: blur(9px);
+                                    filter: blur(9px);  */
+    position: relative;
+    /* box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+                                            box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.5);     */
+  }
+
+  .main-second-section {
+    height: 65vh;
+    width: 100%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: transparent;
+    z-index: 1;
+  }
+  .second-section-center-div {
+    height: 51vh;
+  }
+
+  /* particular line */
+  .center-div-first {
+    height: 5vh;
+    width: 90%;
+    /* background: pink; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  .center-div-first h3 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 15px;
+  }
+  /* particular line */
+  .center-div-second {
+    height: 24vh;
+    width: 90%;
+    /* background: rgb(174, 0, 29); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-second h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 15px;
+  }
+  /* particular line */
+  .center-div-third {
+    height: 13vh;
+    width: 90%;
+    /* background: rgb(3, 74, 86); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .center-div-third h3 {
+    font-family: "Ubuntu", sans-serif;
+    line-height: 27px;
+    font-weight: 400;
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 300px) {
+  /* particular line */
+  .center-div-first {
+    height: 5vh;
+    width: 97%;
+    /* background: pink; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  /* particular line */
+  .center-div-second {
+    height: 24vh;
+    width: 97%;
+    /* background: rgb(174, 0, 29); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  /* particular line */
+  .center-div-third {
+    height: 13vh;
+    width: 97%;
+    /* background: rgb(3, 74, 86); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+}

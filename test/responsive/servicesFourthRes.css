@@ -1,0 +1,1484 @@
+@media screen and (max-width: 1524px) {
+  /* container list first child container*/
+  .container-list ul {
+    height: 53vh;
+    width: 85%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* container list second child container*/
+  .container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+}
+
+@media screen and (max-width: 1427px) {
+  .fourth-section-heading hr {
+    width: 32%;
+    height: 0.15rem;
+    /* background: rgb(0, 0, 0); */
+  }
+  /* heading in between */
+  .fourth-section-heading h2 {
+    font-size: 3.4rem;
+    color: #040404;
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* parent of inner three  containers */
+  #inner-container {
+    height: 77vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+  /* containers */
+
+  .fourth-section-first-container {
+    height: 75vh;
+    width: 30%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* elements in the single container */
+
+  .container-heading {
+    height: 15vh;
+    width: 95%;
+    /* background: rgb(14, 29, 41); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* container heading */
+
+  .container-heading-main {
+    height: 11vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  /* line below the heading */
+  .heading-below {
+    height: 3vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  /* yeh */
+  /* container list main container*/
+  .container-list {
+    height: 59vh;
+    width: 80%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /*yeh  */
+  /* container list first child container*/
+  .container-list ul {
+    height: 57vh;
+    width: 89%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* container list second child container*/
+  .container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* second center container adjustment  */
+  /* yeh */
+  #second-container {
+    /* background: pink; */
+    height: 75vh;
+    width: 29%;
+    /* background: rgb(236, 230, 230); */
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1327px) {
+  /* container list first child container*/
+  .container-list ul {
+    height: 57vh;
+    width: 92%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* container list second child container*/
+  .container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+}
+
+@media screen and (max-width: 1227px) {
+  /* containers */
+
+  .fourth-section-first-container {
+    height: 75vh;
+    width: 32%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* second center container adjustment  */
+  /* yeh */
+  #second-container {
+    /* background: pink; */
+    height: 75vh;
+    width: 32%;
+    /* background: rgb(236, 230, 230); */
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1127px) {
+  /* yeh */
+  .container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2.37rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+  .heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 22px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+  /* yeh */
+  /* container list main container*/
+  .container-list {
+    height: 59vh;
+    width: 87%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /*yeh  */
+  /* container list first child container*/
+  .container-list ul {
+    height: 57vh;
+    width: 96%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 1027px) {
+  /* yeh */
+  .container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2.2rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* yeh */
+  .heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 20px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+  /* yeh */
+  /* container list main container*/
+  .container-list {
+    height: 59vh;
+    width: 90%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 15px;
+  }
+  /*yeh  */
+  /* container list first child container*/
+  .container-list ul {
+    height: 57vh;
+    width: 100%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+  /* yeh */
+  /* container list second child container*/
+  .container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 17px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* second center container adjustment  */
+  /* yeh */
+  #second-container {
+    /* background: pink; */
+    height: 75vh;
+    width: 32%;
+    /* background: rgb(236, 230, 230); */
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 927px) {
+  /* yeh */
+  .container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 1.77rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* yeh */
+  /* container list main container*/
+  .container-list {
+    height: 57vh;
+    width: 90%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 15px;
+  }
+
+  /* yeh */
+  #second-container-line-second {
+    height: 3vh;
+    width: 100%;
+  }
+  #second-container-line-third {
+    height: 6vh;
+    width: 100%;
+  }
+  #second-container-line-fourth {
+    height: 3vh;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 824px) {
+  #inner-container {
+    display: none;
+  }
+  /* fourth section */
+
+  .fourth-section {
+    height: 177vh;
+    width: 100%;
+    /* background: rgb(255, 133, 133); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: url("../images/job297-ploy-07a-purple-01.jpg") no-repeat center
+      center/cover;
+    /* background: greenyellow; */
+  }
+  .fourth-section-heading {
+    height: 16vh;
+    width: 50%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .fourth-section-heading hr {
+    width: 32%;
+    height: 0.15rem;
+    /* margin-bottom: auto;
+    margin-top: auto; */
+    /* background: rgb(0, 0, 0); */
+  }
+  /* heading in between */
+  .fourth-section-heading h2 {
+    font-size: 3.4rem;
+    color: #040404;
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* parent of inner three  containers */
+  #res-inner-container {
+    height: 77vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* containers */
+
+  .res-fourth-section-first-container {
+    height: 75vh;
+    width: 48%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* third container */
+
+  #res-fourth-section-third-container {
+    width: 52%;
+  }
+  /* elements in the single container */
+
+  .res-container-heading {
+    height: 15vh;
+    width: 95%;
+    /* background: rgb(14, 29, 41); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* container heading */
+
+  .res-container-heading-main {
+    height: 11vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .res-container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2.67rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* line below the heading */
+  .res-heading-below {
+    height: 3vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .res-heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 24px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* container list main container*/
+  .res-container-list {
+    height: 57vh;
+    width: 95%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* container list first child container*/
+  .res-container-list ul {
+    height: 57vh;
+    width: 89%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* container list second child container*/
+  .res-container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* particular lines */
+  .res-line-first {
+    height: 3vh;
+    width: 100%;
+  }
+  .res-line-second {
+    height: 5vh;
+    width: 100%;
+  }
+  .res-line-third {
+    height: 4vh;
+    width: 100%;
+  }
+  .res-line-fourth {
+    height: 3vh;
+    width: 100%;
+  }
+  .res-line-fifth {
+    height: 4vh;
+    width: 100%;
+  }
+  .res-line-sixth {
+    height: 3vh;
+    width: 100%;
+  }
+
+  /* second center container adjustment  */
+
+  #res-second-container {
+    /* background: pink; */
+    height: 75vh;
+    width: 45%;
+    background: rgb(236, 230, 230);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #res-second-container-line-second {
+    height: 3vh;
+    width: 100%;
+  }
+  #res-second-container-line-third {
+    height: 4vh;
+    width: 100%;
+  }
+  #res-second-container-line-fourth {
+    height: 3vh;
+    width: 100%;
+  }
+  #res-inner-container-two {
+    height: 77vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (min-width: 824px) {
+  #res-inner-container {
+    display: none;
+  }
+  #res-inner-container-two {
+    display: none;
+  }
+}
+@media screen and (max-width: 824px) {
+  /* #inner-container{
+          display: none;
+                       } */
+  /* fourth section */
+
+  .fourth-section {
+    height: 177vh;
+    width: 100%;
+    /* background: rgb(255, 133, 133); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: url("../images/job297-ploy-07a-purple-01.jpg") no-repeat center
+      center/cover;
+    /* background: greenyellow; */
+  }
+  .fourth-section-heading {
+    height: 16vh;
+    width: 80%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .fourth-section-heading hr {
+    width: 32%;
+    height: 0.15rem;
+    /* margin-bottom: auto;
+    margin-top: auto; */
+    /* background: rgb(0, 0, 0); */
+  }
+  /* heading in between */
+  .fourth-section-heading h2 {
+    font-size: 3.4rem;
+    color: #040404;
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* parent of inner three  containers */
+  #res-inner-container {
+    height: 77vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* containers */
+
+  .res-fourth-section-first-container {
+    height: 75vh;
+    width: 48%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* third container */
+
+  #res-fourth-section-third-container {
+    width: 52%;
+  }
+  /* elements in the single container */
+
+  .res-container-heading {
+    height: 15vh;
+    width: 95%;
+    /* background: rgb(14, 29, 41); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* container heading */
+
+  .res-container-heading-main {
+    height: 11vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .res-container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2.67rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* line below the heading */
+  .res-heading-below {
+    height: 3vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .res-heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 24px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* container list main container*/
+  .res-container-list {
+    height: 57vh;
+    width: 95%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* container list first child container*/
+  .res-container-list ul {
+    height: 57vh;
+    width: 89%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+
+  /* container list second child container*/
+  .res-container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* particular lines */
+  .res-line-first {
+    height: 3vh;
+    width: 100%;
+  }
+  .res-line-second {
+    height: 5vh;
+    width: 100%;
+  }
+  .res-line-third {
+    height: 4vh;
+    width: 100%;
+  }
+  .res-line-fourth {
+    height: 3vh;
+    width: 100%;
+  }
+  .res-line-fifth {
+    height: 4vh;
+    width: 100%;
+  }
+  .res-line-sixth {
+    height: 3vh;
+    width: 100%;
+  }
+
+  /* second center container adjustment  */
+
+  #res-second-container {
+    /* background: pink; */
+    height: 75vh;
+    width: 45%;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #res-second-container-line-second {
+    height: 3vh;
+    width: 100%;
+  }
+  #res-second-container-line-third {
+    height: 4vh;
+    width: 100%;
+  }
+  #res-second-container-line-fourth {
+    height: 3vh;
+    width: 100%;
+  }
+  #res-inner-container-two {
+    height: 77vh;
+    width: 100%;
+    /* background: green; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (max-width: 714px) {
+  #inner-container {
+    display: none;
+  }
+  /* fourth section */
+
+  .fourth-section {
+    height: 177vh;
+    width: 100%;
+    /* background: rgb(255, 133, 133); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: url("../images/job297-ploy-07a-purple-01.jpg") no-repeat center
+      center/cover;
+    /* background: greenyellow; */
+  }
+  .fourth-section-heading {
+    height: 10vh;
+    width: 80%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  /* heading in between */
+  .fourth-section-heading h2 {
+    font-size: 3.4rem;
+    color: #040404;
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* third container */
+
+  #res-fourth-section-third-container {
+    width: 52%;
+  }
+
+  .res-container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2.3rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* line below the heading */
+  .res-heading-below {
+    height: 3vh;
+    width: 100%;
+    /* background: rgb(59, 170, 255); */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .res-heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 21px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* container list main container*/
+  .res-container-list {
+    height: 57vh;
+    width: 95%;
+    /* background: rgb(78, 5, 17); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* container list first child container*/
+  .res-container-list ul {
+    height: 57vh;
+    width: 93%;
+    /* background: rgb(253, 19, 241); */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin-left: 13px;
+  }
+
+  /* container list second child container*/
+  .res-container-list ul li {
+    /* background: yellow; */
+    /* font-family: 'Teko', sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-weight: 10;
+    /* font-size: 24px; */
+    font-size: 18px;
+    font-weight: 00;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  .res-line-third {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 614px) {
+  /* yeh */
+  .res-container-heading-main h2 {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: "Teko", sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 38px;
+    color: rgb(191, 2, 2);
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* yeh */
+  .res-heading-below h6 {
+    font-family: "Teko", sans-serif;
+    font-weight: 10;
+    font-size: 19px;
+    text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+  }
+
+  /* yeh */
+  /* particular lines */
+  .res-line-first {
+    height: 3vh;
+    width: 100%;
+  }
+  .res-line-second {
+    height: 5vh;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  .res-line-third {
+    display: none;
+  }
+  .res-line-fourth {
+    height: 3vh;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .res-line-fifth {
+    height: 4vh;
+    width: 100%;
+  }
+  /* }yeh */
+}
+@media screen and (min-width: 514px) {
+  #resII-inner-container {
+    display: none;
+  }
+  #resII-inner-container-two {
+    display: none;
+  }
+  #resII-inner-container-three {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 514px) {
+  #res-inner-container {
+    display: none;
+  }
+  #res-inner-container-two {
+    display: none;
+  }
+  @media screen and (max-width: 514px) {
+    /* #inner-container{
+   display: none;
+        } */
+    /* fourth section */
+
+    .fourth-section {
+      height: 245vh;
+      width: 100%;
+      /* background: rgb(255, 133, 133); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: center;
+      background: url("../images/job297-ploy-07a-purple-01.jpg") no-repeat center
+        center/cover;
+      /* background: greenyellow; */
+    }
+    .fourth-section-heading {
+      height: 10vh;
+      width: 80%;
+      /* background: yellow; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+
+    .fourth-section-heading hr {
+      width: 32%;
+      height: 0.15rem;
+      /* margin-bottom: auto;
+      margin-top: auto; */
+      /* background: rgb(0, 0, 0); */
+    }
+    /* heading in between */
+    .fourth-section-heading h2 {
+      font-size: 3.6rem;
+      color: #040404;
+      font-family: "Teko", sans-serif;
+      font-weight: 700;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* parent of inner three  containers */
+    #resII-inner-container {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+    #resII-inner-container-two {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+    #resII-inner-container-three {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+
+    /* containers */
+
+    .resII-fourth-section-first-container {
+      height: 75vh;
+      width: 90%;
+      background: rgb(255, 255, 255);
+      border-radius: 10px;
+      box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* third container */
+
+    /* elements in the single container */
+
+    .resII-container-heading {
+      height: 15vh;
+      width: 95%;
+      /* background: rgb(14, 29, 41); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+    /* container heading */
+
+    .resII-container-heading-main {
+      height: 11vh;
+      width: 100%;
+      /* background: rgb(59, 170, 255); */
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .resII-container-heading-main h2 {
+      /* font-family: 'Ubuntu', sans-serif; */
+      font-family: "Teko", sans-serif;
+      font-weight: 700;
+      font-size: 2.71rem;
+      line-height: 38px;
+      color: rgb(191, 2, 2);
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* line below the heading */
+    .resII-heading-below {
+      height: 3vh;
+      width: 100%;
+      /* background: rgb(59, 170, 255); */
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .resII-heading-below h6 {
+      font-family: "Teko", sans-serif;
+      font-weight: 10;
+      font-size: 24px;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* container list main container*/
+    .resII-container-list {
+      height: 57vh;
+      width: 95%;
+      /* background: rgb(78, 5, 17); */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* container list first child container*/
+    .resII-container-list ul {
+      height: 57vh;
+      width: 89%;
+      /* background: rgb(253, 19, 241); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+
+    /* container list second child container*/
+    .resII-container-list ul li {
+      /* background: yellow; */
+      /* font-family: 'Teko', sans-serif; */
+      font-family: "Roboto", sans-serif;
+      font-weight: 10;
+      /* font-size: 24px; */
+      font-size: 20px;
+      font-weight: 00;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* particular lines */
+    .resII-line-first {
+      height: 3vh;
+      width: 100%;
+    }
+    .resII-line-second {
+      height: 5vh;
+      width: 100%;
+    }
+    .resII-line-third {
+      height: 4vh;
+      width: 100%;
+    }
+    .resII-line-fourth {
+      height: 3vh;
+      width: 100%;
+    }
+    .resII-line-fifth {
+      height: 4vh;
+      width: 100%;
+    }
+    .resII-line-sixth {
+      height: 3vh;
+      width: 100%;
+    }
+
+    /* second center container adjustment  */
+    /*                                                                                             
+    #resII-second-container{
+         background: pink;
+        height: 75vh;
+         width: 45%;
+        /* background: rgb(236, 230, 230); */
+    /* border-radius: 10px;
+        box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);     
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }  */
+    #resII-second-container-line-second {
+      height: 3vh;
+      width: 100%;
+    }
+    #resII-second-container-line-third {
+      height: 4vh;
+      width: 100%;
+    }
+    #resII-second-container-line-fourth {
+      height: 3vh;
+      width: 100%;
+    }
+    #resII-inner-container-two {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+  }
+
+  @media screen and (max-width: 407px) {
+    /* #inner-container{
+                                                                                                                              display: none;
+                                                                                                                                           } */
+    /* fourth section */
+
+    /* containers */
+    /* yeh */
+    .resII-fourth-section-first-container {
+      height: 75vh;
+      width: 95%;
+      background: rgb(255, 255, 255);
+      border-radius: 10px;
+      box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* yeh */
+    .resII-container-heading-main h2 {
+      /* font-family: 'Ubuntu', sans-serif; */
+      font-family: "Teko", sans-serif;
+      font-weight: 700;
+      font-size: 2rem;
+      line-height: 38px;
+      color: rgb(191, 2, 2);
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* yeh */
+    .resII-heading-below h6 {
+      font-family: "Teko", sans-serif;
+      font-weight: 10;
+      font-size: 20px;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* container list second child container*/
+    .resII-container-list ul li {
+      /* background: yellow; */
+      /* font-family: 'Teko', sans-serif; */
+      font-family: "Roboto", sans-serif;
+      font-weight: 10;
+      /* font-size: 24px; */
+      font-size: 18px;
+      font-weight: 00;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+    /* second container li */
+
+    .resII-container-list ul li {
+      /* background: yellow; */
+      /* font-family: 'Teko', sans-serif; */
+      font-family: "Roboto", sans-serif;
+      font-weight: 10;
+      /* font-size: 24px; */
+      font-size: 16px;
+    }
+  }
+
+  @media screen and (max-width: 310px) {
+    /* #inner-container{
+    display: none;
+                                                                                                                                                                   } */
+    /* fourth section */
+
+    .fourth-section {
+      height: 245vh;
+      width: 100%;
+      /* background: rgb(255, 133, 133); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: center;
+      background: url("../images/job297-ploy-07a-purple-01.jpg") no-repeat center
+        center/cover;
+      /* background: greenyellow; */
+    }
+    .fourth-section-heading {
+      height: 10vh;
+      width: 80%;
+      /* background: yellow; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+
+    .fourth-section-heading hr {
+      width: 32%;
+      height: 0.1rem;
+      /* margin-bottom: auto;
+       margin-top: auto; */
+      background: rgb(0, 0, 0);
+    }
+    /* heading in between */
+    .fourth-section-heading h2 {
+      font-size: 2.5rem;
+      color: #040404;
+      font-family: "Teko", sans-serif;
+      font-weight: 700;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* parent of inner three  containers */
+    #resII-inner-container {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+    #resII-inner-container-two {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+    #resII-inner-container-three {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+
+    /* containers */
+
+    .resII-fourth-section-first-container {
+      height: 75vh;
+      width: 90%;
+      background: rgb(255, 255, 255);
+      border-radius: 10px;
+      box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* third container */
+
+    /* elements in the single container */
+
+    .resII-container-heading {
+      height: 15vh;
+      width: 95%;
+      /* background: rgb(14, 29, 41); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+    /* container heading */
+
+    .resII-container-heading-main {
+      height: 11vh;
+      width: 100%;
+      /* background: rgb(59, 170, 255); */
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .resII-container-heading-main h2 {
+      /* font-family: 'Ubuntu', sans-serif; */
+      font-family: "Teko", sans-serif;
+      font-weight: 700;
+      font-size: 1.43rem;
+      line-height: 29px;
+      color: rgb(191, 2, 2);
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* line below the heading */
+    .resII-heading-below {
+      height: 3vh;
+      width: 100%;
+      /* background: rgb(59, 170, 255); */
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+    }
+    .resII-heading-below h6 {
+      font-family: "Teko", sans-serif;
+      font-weight: 10;
+      font-size: 20px;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* container list main container*/
+    .resII-container-list {
+      height: 57vh;
+      width: 95%;
+      /* background: rgb(78, 5, 17); */
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* container list first child container*/
+    .resII-container-list ul {
+      height: 57vh;
+      width: 89%;
+      /* background: rgb(253, 19, 241); */
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+
+    /* container list second child container*/
+    .resII-container-list ul li {
+      /* background: yellow; */
+      /* font-family: 'Teko', sans-serif; */
+      font-family: "Roboto", sans-serif;
+      font-weight: 10;
+      /* font-size: 24px; */
+      font-size: 15px;
+      font-weight: 00;
+      text-shadow: 0 4px 4px rgb(0 0 0 / 15%);
+    }
+
+    /* particular lines */
+    .resII-line-first {
+      height: 3vh;
+      width: 100%;
+    }
+    .resII-line-second {
+      height: 5vh;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+    .resII-line-third {
+      height: 4vh;
+      width: 100%;
+      margin-bottom: 8px;
+    }
+    .resII-line-fourth {
+      height: 3vh;
+      width: 100%;
+    }
+    .resII-line-fifth {
+      height: 4vh;
+      width: 100%;
+    }
+    .resII-line-sixth {
+      height: 3vh;
+      width: 100%;
+    }
+
+    /* second center container adjustment  */
+    /*                                                                                             
+  #resII-second-container{
+background: pink;
+ height: 75vh;
+                            
+width: 45%;
+                            
+/* background: rgb(236, 230, 230); */
+    /* border-radius: 10px;
+   box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.436);                              
+   display: flex;                         
+   flex-direction: column;             
+     justify-content: center;
+     a}  */
+    #resII-second-container-line-second {
+      height: 3vh;
+      width: 100%;
+    }
+    #resII-second-container-line-third {
+      height: 4vh;
+      width: 100%;
+    }
+    #resII-second-container-line-fourth {
+      height: 3vh;
+      width: 100%;
+    }
+    #resII-inner-container-two {
+      height: 77vh;
+      width: 100%;
+      /* background: green; */
+      display: flex;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+  }
+}

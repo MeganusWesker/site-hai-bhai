@@ -1,0 +1,715 @@
+/* Media qurey section  */
+
+@media screen and (min-width: 768px) and (max-width: 1424px) {
+  .container {
+    margin: 0;
+  }
+}
+
+/* new responsiveness */
+@media screen and (max-width: 1288px) {
+  /* Navbar section */
+
+  .nav {
+    width: 100%;
+    height: 10vh;
+    position: fixed;
+    line-height: 10vhvh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: green; */
+  }
+  .container {
+    height: 10vh;
+    width: 90%;
+    /* background: pink; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo {
+    height: 10vh;
+    width: 29%;
+    /* background: blue; */
+  }
+
+  .logo a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 2.5rem;
+  }
+
+  .logo a:hover {
+    color: #54088e;
+  }
+
+  /* .main_list {
+    height: 10vh;
+   width: 50%;
+   background: yellosw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.nav div.main_list ul {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #dc58cd;
+    list-style: none;
+  
+}
+
+.nav div.main_list ul li {
+    width: 12%;
+    height: 7vh;
+    background: #aa4848; */
+  /* padding: 0; */
+  /* padding-right: 3rem; */
+  /* } */
+  .main_list {
+    height: 10vh;
+    width: 50%;
+    /* background: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nav div.main_list ul {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background: #dc58cd; */
+    list-style: none;
+  }
+
+  .li-first,
+  .li-second,
+  .li-third,
+  .li-fourth {
+    width: 18%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .li-fifth {
+    width: 20%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .nav div.main_list ul li a {
+    text-decoration: none;
+    color: #000000;
+    line-height: 10vh;
+    font-size: 20px;
+  }
+
+  .nav div.main_list ul li a:hover {
+    color: #490c99;
+  }
+
+  .navTrigger {
+    display: none;
+  }
+}
+@media screen and (max-width: 999px) {
+  .li-first,
+  .li-second,
+  .li-third,
+  .li-fourth {
+    width: 17%;
+    height: 10vh;
+  }
+  .li-fifth {
+    width: 22%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+}
+
+@media screen and (max-width: 949px) {
+  .main_list {
+    height: 10vh;
+    width: 54%;
+  }
+  .brand-name{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1rem;
+}
+  .li-first,
+  .li-second,
+  .li-third,
+  .li-fourth {
+    width: 18%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .li-fifth {
+    width: 25%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .nav div.main_list ul li a {
+    text-decoration: none;
+    color: #000000;
+    line-height: 10vh;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 848px) {
+  .logo {
+    height: 65px;
+    width: 20%;
+    /* background: blue; */
+  }
+  .li-first,
+  .li-second,
+  .li-third,
+  .li-fourth {
+    width: 16%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .li-fifth {
+    width: 20%;
+    height: 10vh;
+    /* background: #8d3a3a; */
+    /* padding: 0; */
+    /* padding-right: 3rem; */
+  }
+  .nav div.main_list ul li a {
+    text-decoration: none;
+    color: #000000;
+    line-height: 10vh;
+    font-size: 1.3rem;
+  }
+}
+
+@media screen and (max-width: 848px) {
+  .container {
+    height: 10vh;
+    width: 95%;
+  }
+  .logo {
+    height: 65px;
+    width: 30%;
+    /* background: blue; */
+  }
+  .brand-name {
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.2rem;
+  }
+  .main_list {
+    height: 10vh;
+    width: 60%;
+  }
+  .nav div.main_list ul li a {
+    text-decoration: none;
+    color: #000000;
+    line-height: 10vh;
+    font-size: 1.06rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+  .main_list {
+    display: none;
+  }
+  .navTrigger {
+    display: block;
+    position: fixed;
+    z-index: 9;
+  }
+  /* Animation */
+  /* Inspiration taken from Dicson https://codemyui.com/simple-hamburger-menu-x-mark-animation/  */
+  .navTrigger {
+    cursor: pointer;
+    width: 30px;
+    height: 25px;
+    margin: auto;
+    position: absolute;
+    right: 30px;
+    top: 0;
+    bottom: 0;
+  }
+
+  .navTrigger i {
+    /* background-color: #fff; */
+    border-radius: 2px;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 4px;
+    background-color: #000000;
+  }
+
+  .navTrigger i:nth-child(1) {
+    -webkit-animation: outT 0.8s backwards;
+    animation: outT 0.8s backwards;
+    -webkit-animation-direction: reverse;
+    animation-direction: reverse;
+  }
+
+  .navTrigger i:nth-child(2) {
+    margin: 5px 0;
+    -webkit-animation: outM 0.8s backwards;
+    animation: outM 0.8s backwards;
+    -webkit-animation-direction: reverse;
+    animation-direction: reverse;
+  }
+
+  .navTrigger i:nth-child(3) {
+    -webkit-animation: outBtm 0.8s backwards;
+    animation: outBtm 0.8s backwards;
+    -webkit-animation-direction: reverse;
+    animation-direction: reverse;
+  }
+
+  .navTrigger.active i:nth-child(1) {
+    -webkit-animation: inT 0.8s forwards;
+    animation: inT 0.8s forwards;
+  }
+
+  .navTrigger.active i:nth-child(2) {
+    -webkit-animation: inM 0.8s forwards;
+    animation: inM 0.8s forwards;
+  }
+
+  .navTrigger.active i:nth-child(3) {
+    -webkit-animation: inBtm 0.8s forwards;
+    animation: inBtm 0.8s forwards;
+  }
+
+  @-webkit-keyframes inM {
+    50% {
+      -webkit-transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(45deg);
+    }
+  }
+
+  @keyframes inM {
+    50% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(45deg);
+    }
+  }
+
+  @-webkit-keyframes outM {
+    50% {
+      -webkit-transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(45deg);
+    }
+  }
+
+  @keyframes outM {
+    50% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(45deg);
+    }
+  }
+
+  @-webkit-keyframes inT {
+    0% {
+      -webkit-transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      -webkit-transform: translateY(9px) rotate(0deg);
+    }
+    100% {
+      -webkit-transform: translateY(9px) rotate(135deg);
+    }
+  }
+
+  @keyframes inT {
+    0% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(9px) rotate(0deg);
+    }
+    100% {
+      transform: translateY(9px) rotate(135deg);
+    }
+  }
+
+  @-webkit-keyframes outT {
+    0% {
+      -webkit-transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      -webkit-transform: translateY(9px) rotate(0deg);
+    }
+    100% {
+      -webkit-transform: translateY(9px) rotate(135deg);
+    }
+  }
+
+  @keyframes outT {
+    0% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(9px) rotate(0deg);
+    }
+    100% {
+      transform: translateY(9px) rotate(135deg);
+    }
+  }
+
+  @-webkit-keyframes inBtm {
+    0% {
+      -webkit-transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      -webkit-transform: translateY(-9px) rotate(0deg);
+    }
+    100% {
+      -webkit-transform: translateY(-9px) rotate(135deg);
+    }
+  }
+
+  @keyframes inBtm {
+    0% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-9px) rotate(0deg);
+    }
+    100% {
+      transform: translateY(-9px) rotate(135deg);
+    }
+  }
+
+  @-webkit-keyframes outBtm {
+    0% {
+      -webkit-transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      -webkit-transform: translateY(-9px) rotate(0deg);
+    }
+    100% {
+      -webkit-transform: translateY(-9px) rotate(135deg);
+    }
+  }
+
+  @keyframes outBtm {
+    0% {
+      transform: translateY(0px) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-9px) rotate(0deg);
+    }
+    100% {
+      transform: translateY(-9px) rotate(135deg);
+    }
+  }
+  .logo {
+    margin-left: 15px;
+  }
+
+  .main_list {
+    width: 0;
+    height: 0;
+    overflow: visible;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: url("images/OQ1VI60.jpg") no-repeat center center/cover;
+    border-radius: 22px 0px 0px 78px;
+    box-shadow: 5px 5px 5px 5p x #3332322e;
+  }
+  .show_list {
+    height: 90vh;
+    width: 40%;
+
+    /* background-color: #00E676; */
+    /* background-image: url(/NavbarR/images/OQ1VI60.jpg); */
+    /* background-image: url(); */
+    /* display: block; */
+    /* transform: ; */
+  }
+  .nav div.main_list ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90vh;
+    width: 100%;
+    /* background-color: #37cc7f;  */
+    /* background-position: cen; */
+    /* justify-content: space-evenly;
+            align-items: center; */
+    /* background: #dc58cd; */
+    list-style: none;
+  }
+  .nav div.main_list ul li {
+    width: 39%;
+    height: 5vh;
+    text-align: center;
+    background: rgb(182, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 19px;
+    box-shadow: 5px 3px 8px 2px #333232bd;
+    transition: 0.3s;
+  }
+
+  .main_list ul li:hover {
+    background: rgb(203, 8, 8);
+    columns: white;
+  }
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+  }
+  .nav div.media_button {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 644px) {
+  .logo {
+    height: 65px;
+    width: 40%;
+    /* background: blue; */
+  }
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 13px;
+    color: white;
+    /* padding: 20px; */
+    /* background: #4f48ad; */
+  }
+}
+@media screen and (max-width: 540px) {
+  .logo {
+    height: 65px;
+    width: 50%;
+    /* background: blue; */
+  }
+
+  .navTrigger {
+    cursor: pointer;
+    width: 23px;
+  }
+  .nav div.main_list ul li {
+    width: 38%;
+    height: 5vh;
+    text-align: center;
+    background: rgb(182, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 19px;
+    box-shadow: 5px 3px 8px 2px #333232bd;
+    transition: 0.3s;
+  }
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 11px;
+    color: white;
+    /* padding: 20px; */
+    /* background: #4f48ad; */
+  }
+}
+
+@media screen and (max-width: 413px) {
+  .logo {
+    height: 65px;
+    width: 50%;
+    /* background: blue; */
+  }
+  .brand-name {
+    text-decoration: none;
+    color: #000000;
+    font-size: 1rem;
+  }
+  .navTrigger {
+    cursor: pointer;
+    width: 24px;
+  }
+  .nav div.main_list ul li {
+    width: 43%;
+    height: 4.7vh;
+    text-align: center;
+    background: rgb(182, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 19px;
+    box-shadow: 5px 3px 8px 2px #333232bd;
+    transition: 0.3s;
+  }
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 11px;
+    color: white;
+    /* padding: 20px; */
+    /* background: #4f48ad; */
+  }
+}
+@media screen and (max-width: 401px) {
+  .brand-name {
+    text-decoration: none;
+    color: #0a0a0a;
+    font-size: 13px;
+  }
+
+  .navTrigger {
+    cursor: pointer;
+    width: 22px;
+  }
+  .main_list {
+    width: 0;
+    height: 0;
+    overflow: visible;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: url("images/OQ1VI60.jpg") no-repeat center center/cover;
+  }
+  .show_list {
+    height: 60vh;
+    width: 40%;
+
+    /* background-color: #00E676; */
+    /* background-image: url(/NavbarR/images/OQ1VI60.jpg); */
+    /* background-image: url(); */
+    /* display: block; */
+    /* transform: ; */
+  }
+  .nav div.main_list ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+    list-style: none;
+  }
+  .nav div.main_list ul li {
+    width: 43%;
+    height: 3.5vh;
+    text-align: center;
+
+    background: rgb(182, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 19px;
+    box-shadow: 5px 3px 8px 2px #333232bd;
+    transition: 0.3s;
+  }
+
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+    color: white;
+  }
+  .nav div.media_button {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 295px) {
+  .brand-name {
+    text-decoration: none;
+    color: #0a0a0a;
+    font-size: 11px;
+  }
+
+  .navTrigger {
+    cursor: pointer;
+    width: 22px;
+  }
+  .main_list {
+    width: 0;
+    height: 0;
+    overflow: visible;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: url("images/OQ1VI60.jpg") no-repeat center center/cover;
+  }
+  .show_list {
+    height: 60vh;
+    width: 40%;
+
+    /* background-color: #00E676; */
+    /* background-image: url(/NavbarR/images/OQ1VI60.jpg); */
+    /* background-image: url(); */
+    /* display: block; */
+    /* transform: ; */
+  }
+  .nav div.main_list ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+    list-style: none;
+  }
+  .nav div.main_list ul li {
+    width: 43%;
+    height: 3.5vh;
+    text-align: center;
+
+    background: rgb(182, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 19px;
+    box-shadow: 5px 3px 8px 2px #333232bd;
+    transition: 0.3s;
+  }
+
+  .nav div.main_list ul li a {
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+    color: white;
+  }
+  .nav div.media_button {
+    display: block;
+  }
+}
